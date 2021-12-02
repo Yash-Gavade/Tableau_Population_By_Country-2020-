@@ -3,7 +3,15 @@
 ![Tableau](https://user-images.githubusercontent.com/74112721/144185454-85dca7df-1238-4085-b1e0-00a78967d8eb.png)
 
 Analysis and Visualizations
+![Screenshot (53)](https://user-images.githubusercontent.com/74112721/144415828-ef1484f9-6874-480f-b4b6-6af527925ac1.png)
 
+
+Asian Countries 
+![Screenshot (52)](https://user-images.githubusercontent.com/74112721/144415916-28dcd3fc-3f8c-4f18-968f-3a0064fecd3b.png)
+
+
+South Eastern Countries
+![Screenshot (54)](https://user-images.githubusercontent.com/74112721/144415875-5748e2f8-dd99-4901-b831-5536513e27fd.png)
 
 
 
