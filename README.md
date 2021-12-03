@@ -1,5 +1,8 @@
 # Tableau_Population_By_Country-2020
 
+This Repository contains the statistical analysis of the Population By Country for the year  2020. This was done for the course work of Tableau during my 2rd year of engineering. I've attached all the screenshots below regarding the visualization .
+
+
 ![Tableau](https://user-images.githubusercontent.com/74112721/144185454-85dca7df-1238-4085-b1e0-00a78967d8eb.png)
 
 ![Screenshot (133)](https://user-images.githubusercontent.com/74112721/144543693-efe9ee8c-1ac8-475c-b196-238534301c25.png)
