@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/74112721/144545556-f1622854-5ddb-44c2-ae66-602c907b9289.png) ______________________K. J. Somaiya College of Engineering, Mumbai-77 __________________ ![image](https://user-images.githubusercontent.com/74112721/144545198-29fb944e-cc94-4bef-91aa-ff1ffbc8af90.png)
+
+
 # Tableau_Population_By_Country-2020
 
 This Repository contains the statistical analysis of the Population By Country for the year  2020. This was done for the course work of Tableau during my 2rd year of engineering. I've attached all the screenshots below regarding the visualization .
@@ -21,7 +24,7 @@ South Eastern Countries
 Countries With More than 100 milion People
 ![Screenshot (127)](https://user-images.githubusercontent.com/74112721/144412436-d9cb79e3-c854-48e4-8a89-a478c1557484.png)
 
-![image](https://user-images.githubusercontent.com/74112721/144545556-f1622854-5ddb-44c2-ae66-602c907b9289.png) ______________________K. J. Somaiya College of Engineering, Mumbai-77 __________________ ![image](https://user-images.githubusercontent.com/74112721/144545198-29fb944e-cc94-4bef-91aa-ff1ffbc8af90.png)
+
 
  
  
