@@ -10,6 +10,15 @@
 Analysis and Visualizations
 ![Screenshot (53)](https://user-images.githubusercontent.com/74112721/144415828-ef1484f9-6874-480f-b4b6-6af527925ac1.png)
 
+![Screenshot (139)](https://user-images.githubusercontent.com/74112721/144544150-67943c66-837b-4cdc-b0da-95b9d351dbbb.png)
+![Screenshot (140)](https://user-images.githubusercontent.com/74112721/144544157-3117cd39-5ba2-46d7-ab75-125fadfc25ed.png)
+![Screenshot (141)](https://user-images.githubusercontent.com/74112721/144544158-9cd0921a-d653-4546-8650-e79a7d37758c.png)
+![Screenshot (142)](https://user-images.githubusercontent.com/74112721/144544159-870e80a4-11fe-432b-9889-7ced83a0300b.png)
+![Screenshot (143)](https://user-images.githubusercontent.com/74112721/144544163-901c8e2e-9370-46b1-b0ef-9d513b9db858.png)
+![Screenshot (144)](https://user-images.githubusercontent.com/74112721/144544165-048ea517-cb65-4763-8cd9-78cb59cc05da.png)
+
+
+
 
 Asian Countries 
 ![Screenshot (52)](https://user-images.githubusercontent.com/74112721/144415916-28dcd3fc-3f8c-4f18-968f-3a0064fecd3b.png)
