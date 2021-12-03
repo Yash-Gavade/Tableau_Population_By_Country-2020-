@@ -28,13 +28,8 @@ K. J. Somaiya College of Engineering, Mumbai-77
  
 
 
-Contributors
 
-Yash Gavade
-
-Fardeen Khan
+Contributors : Yash Gavade , Fardeen Khan
 
 
-Acknowledgement
-
-We would like to thanks Prof. Vaibhav Vasani  for the guidance and support throughout the coursework.
+Acknowledgement : We would like to thanks Prof. Vaibhav Vasani  for the guidance and support throughout the coursework.
