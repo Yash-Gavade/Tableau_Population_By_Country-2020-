@@ -23,7 +23,8 @@ Countries With More than 100 milion People
 
 ![Screenshot (128)](https://user-images.githubusercontent.com/74112721/144544705-bfd06a65-3f55-464b-9db6-d225e91c87df.png)
 
-![image](https://user-images.githubusercontent.com/74112721/144545176-aaaa4dc2-bafd-4e87-8d9e-fe338a1813fc.png),![image](https://user-images.githubusercontent.com/74112721/144545198-29fb944e-cc94-4bef-91aa-ff1ffbc8af90.png)
+![image](https://user-images.githubusercontent.com/74112721/144545176-aaaa4dc2-bafd-4e87-8d9e-fe338a1813fc.png),                                             ![image](https://user-images.githubusercontent.com/74112721/144545255-adbc2db0-caf3-4817-ace0-c9bbd6329a65.png)         
+,                       ![image](https://user-images.githubusercontent.com/74112721/144545198-29fb944e-cc94-4bef-91aa-ff1ffbc8af90.png)
 
 
 Kj Somaiya College Of Engineering 
