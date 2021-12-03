@@ -21,8 +21,8 @@ South Eastern Countries
 Countries With More than 100 milion People
 ![Screenshot (127)](https://user-images.githubusercontent.com/74112721/144412436-d9cb79e3-c854-48e4-8a89-a478c1557484.png)
 
-![Screenshot (128)](https://user-images.githubusercontent.com/74112721/144544705-bfd06a65-3f55-464b-9db6-d225e91c87df.png)
-K. J. Somaiya College of Engineering, Mumbai-77      ![image](https://user-images.githubusercontent.com/74112721/144545198-29fb944e-cc94-4bef-91aa-ff1ffbc8af90.png)
+![Screenshot (128)](https://user-images.githubusercontent.com/74112721/144544705-bfd06a65-3f55-464b-9db6-d225e91c87df.png) ,
+K. J. Somaiya College of Engineering, Mumbai-77   ,   ![image](https://user-images.githubusercontent.com/74112721/144545198-29fb944e-cc94-4bef-91aa-ff1ffbc8af90.png)
 
 
  
