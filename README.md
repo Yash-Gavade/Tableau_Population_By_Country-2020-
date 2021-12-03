@@ -4,7 +4,8 @@
 
 
 
-![Uploading Screenshot (130).png…]()
+
+![Screenshot (130)](https://user-images.githubusercontent.com/74112721/144543259-7b289ffd-6f4b-4494-b544-a3f30b4d9ad7.png)
 
 
 Analysis and Visualizations
@@ -27,3 +28,4 @@ Countries With More than 100 milion People
 
 Selected Countries  
 ![Screenshot (124)](https://user-images.githubusercontent.com/74112721/144412583-c866338e-26f4-46aa-b9b8-3feb6554f325.png)
+
