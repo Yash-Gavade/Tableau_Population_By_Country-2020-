@@ -30,7 +30,6 @@ Countries With More than 100 milion People
 
 ![Screenshot (133)](https://user-images.githubusercontent.com/74112721/144543693-efe9ee8c-1ac8-475c-b196-238534301c25.png)
 
-Contributors : Yash Gavade , Fardeen Khan
 
 
 Acknowledgement : We would like to thanks Prof. Vaibhav Vasani  for the guidance and support throughout the coursework.
