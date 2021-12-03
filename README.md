@@ -28,10 +28,8 @@ Kj Somaiya College Of Engineering
 
 
 Contributors
-
 Yash Gavade
 Fardeen Khan
 
 Acknowledgement
-
 We would like to thanks Prof. Vaibhav Vasani  for the guidance and support throughout the coursework.
